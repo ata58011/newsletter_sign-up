@@ -32,7 +32,7 @@ const Card = () => {
           />
           <button
             type="button"
-            className="mt-4 py-3 text-center border sm:w-80 w-72 rounded-lg text-white bg-[#232742]"
+            className="mt-4 py-3 text-center border sm:w-80 w-72 rounded-lg text-white bg-[#232742] active:bg-gradient-to-r active:from-btomato active:to-yellow-500"
           >
             Subscribe to monthly newsletter
           </button>
