@@ -4,7 +4,7 @@ import desktopIllustration from "../images/illustration-sign-up-desktop.svg";
 
 const Card = () => {
   return (
-    <div className="bg-white flex gap-x-4 p-4 rounded-3xl container md:max-w-3xl max-w-md md:flex-row flex-col-reverse">
+    <div className="bg-white flex gap-x-4 p-4 rounded-3xl container md:max-w-3xl max-w-md md:flex-row flex-col-reverse font-roboto">
       <div className="flex flex-col justify-center gap-y-4 py-3 px-8">
         <h1 className="text-4xl font-bold">Stay Updated!</h1>
         <p>Join 60,000+ product managers receiving monthly updates on:</p>

@@ -1,9 +1,11 @@
-import Card from "./Components/Card";
+import Newsletter from "./Components/Newsletter";
+import SuccessMessage from "./Components/SuccessMessage";
 
 function App() {
   return (
     <div className="App bg-[#35384d] min-h-screen flex justify-center items-center">
-  <Card></Card>
+  {/* <Newsletter></Newsletter> */}
+  <SuccessMessage></SuccessMessage>
     </div>
   );
 }
